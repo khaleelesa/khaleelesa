@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khaleel-esa
-- 👀 I’m interested in gaming coding and cars
+- 👀 I’m interested in gaming coding 
 - 🌱 I’m currently learning fullStack
 - 📫 How to reach me ==> email: khaleel.ke@gmail.com , m:+972-54-6172630 
 
